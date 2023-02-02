@@ -30,5 +30,5 @@ Here's a breakdown of my Github contributions so  far:
 
 And here's a breakdown of the languages I used:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iron3oxide&show_icons=true&locale=en" alt="iron3oxide"/></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=iron3oxide&show_icons=true&locale=en" alt="iron3oxide"/></p>
 
