@@ -2,9 +2,12 @@
 #### I am a python developer
 My main weakness as a developer is what I call the shiny-new-toy-fallacy: If I discover a promising new piece of technology, I will be very tempted to drop my old toys to play with the new one, even though I know way less about it.
 
-On the plus side, that means I tend to know cutting edge libraries, services and maybe even programming languages. On the not-so-plus side, I sometimes drop "proven" tech a bit too early and have to admit to myself and others that the new stuff isn't there yet.
+On the plus side, that means I tend to know cutting edge libraries, services and maybe even programming languages. On the not-so-plus side, I sometimes drop "proven" tech a bit too early and have to admit to myself and others later on that the new stuff isn't there yet.
 
+<br>
 Skills: Python / FastAPI / flet / PySide6 / SQLite / Postgres / Docker / Kubernetes
+<br>
+<br>
 
 - 🌱 I’m currently learning Rust 
 - 💬 Ask me about Pick trades in the NFL draft 
