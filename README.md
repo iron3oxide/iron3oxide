@@ -1,32 +1,22 @@
-<h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">A passionate python developer</h3>
+### Hi there 👋, my name is Jason
+#### I am a python developer
+My main weakness as a developer is what I call the shiny-new-toy-fallacy: If I discover a promising new piece of technology, I will be very tempted to drop my old toys to play with the new one, even though I know way less about it.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iron3oxide&label=Profile%20views&color=0e75b6&style=flat" alt="iron3oxide" /> </p>
+On the plus side, that means I tend to know cutting edge libraries, services and maybe even programming languages. On the not-so-plus side, I sometimes drop "proven" tech a bit too early and have to admit to myself and others that the new stuff isn't there yet.
 
-- 🌱 I’m currently learning **Rust**
+Skills: Python / FastAPI / flet / PySide6 / SQLite / Postgres / Docker / Kubernetes
 
-- 📝 I sometimes write articles on [https://dev.to/iron3oxide](https://dev.to/iron3oxide)
+- 🌱 I’m currently learning Rust 
+- 💬 Ask me about Pick trades in the NFL draft 
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: SQLite was developed to be used on a battleship 
 
-- 💬 Ask me about **Pick trades in the NFL draft**
 
-- 😄 Pronouns **he/him**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iron3oxide)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/iron3oxide)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/20214843)  
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Hello World!](https://dev.to/iron3oxide/hello-world-5726)
-<!-- BLOG-POST-LIST:END -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iron3oxide)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/iron3oxide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="iron3oxide" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20214843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20214843" height="30" width="40" /></a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iron3oxide&show_icons=true)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=iron3oxide&show_icons=true&locale=en" alt="iron3oxide"/></p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iron3oxide&show_icons=true&locale=en&layout=compact" alt="iron3oxide"/></p>
-
+![Profile views](https://gpvc.arturio.dev/iron3oxide)  
 
