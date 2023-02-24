@@ -5,7 +5,7 @@ My main weakness as a developer is what I call the shiny-new-toy-fallacy: If I d
 On the plus side, that means I tend to know cutting edge libraries, services and maybe even programming languages. On the not-so-plus side, I sometimes drop "proven" tech a bit too early and have to admit to myself and others later on that the new stuff isn't there yet.
 
 <br>
-Skills: Python / FastAPI / flet / PySide6 / SQLite / Postgres / Docker / Kubernetes
+Skills: Python / FastAPI / Flet / PySide6 / SQLite / Postgres / Docker / Kubernetes
 <br>
 <br>
 
